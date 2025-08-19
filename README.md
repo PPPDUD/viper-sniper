@@ -37,7 +37,7 @@ You should see the following output:
 
 - `LOG_LEVEL` - Set logging level, e.g., `info`, `debug`, `trace`, etc.
 - `LOG_FILENAME` - Filename for trade log journal, set to `none` to disable.
-- `MAX_TOKENS_AT_A_TIME` - Set to `1` to process buying one token at a time.
+- `MAX_TOKENS_AT_THE_TIME` - Set to `1` to process buying one token at a time.
 - `COMPUTE_UNIT_LIMIT` - Compute limit used to calculate fees.
 - `COMPUTE_UNIT_PRICE` - Compute price used to calculate fees.
 - `PRE_LOAD_EXISTING_MARKETS` - Bot will load all existing markets in memory on start.
